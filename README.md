@@ -1,5 +1,5 @@
 # MacTube
-Chrome Extention to control youtube player for any chrome tab with keyboard shortcut:
+Chrome Extension to control youtube player for any chrome tab with keyboard shortcut:
 
-Availbale Shortcuts:
+Available Shortcuts:
 Play Next - MacCtrl+N
