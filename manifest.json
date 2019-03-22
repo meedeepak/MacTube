@@ -1,0 +1,23 @@
+{
+  "name": "MacTube",
+  "version": "1.0",
+  "manifest_version": 2,
+  "permissions": [
+    "tabs",
+    "<all_urls>"
+  ],
+  "commands": {
+    "next": {
+      "suggested_key": {
+        "default": "MacCtrl+N"
+      },
+      "description": "Next"
+    }
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": false
+  }
+}
